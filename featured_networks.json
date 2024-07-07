@@ -2,8 +2,7 @@
 		"title": "POM Chain L2",
 		"url": "https://pom.jibl2.com/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/otternode-io/jibl2-asset/main/pom-icon.png",
-		"isActive": true
+		"icon": "https://raw.githubusercontent.com/otternode-io/jibl2-asset/main/pom-icon.png"
 	},
 	{
 		"title": "Sense IoT L2",
