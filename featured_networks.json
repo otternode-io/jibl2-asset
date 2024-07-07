@@ -6,10 +6,16 @@
 		"isActive": true
 	},
 	{
-		"title": "Sense IoT L2 ",
+		"title": "Sense IoT L2",
 		"url": "https://sense.jibl2.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/otternode-io/jibl2-asset/main/sense-icon.png"
+	},
+	{
+		"title": "Meta Id L2",
+		"url": "https://meta-id.jibl2.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/otternode-io/jibl2-asset/main/meta-id-icon.png"
 	},
 	{
 		"title": "Hera L2",
