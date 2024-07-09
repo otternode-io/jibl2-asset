@@ -17,6 +17,12 @@
 		"icon": "https://raw.githubusercontent.com/otternode-io/jibl2-asset/main/meta-id-icon.png"
 	},
 	{
+		"title": "LavaRock Gaming BlockChain",
+		"url": "https://lavarock.xyz",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/otternode-io/jibl2-asset/main/lavarock-icon.png"
+	},
+	{
 		"title": "Hera L2",
 		"url": "https://www.hera.jbcha.in/",
 		"group": "Testnets",
